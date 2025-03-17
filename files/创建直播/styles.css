@@ -1,0 +1,127 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:0px;
+  width:1398px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u16375_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1398px;
+  height:843px;
+}
+#u16375 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1398px;
+  height:843px;
+  display:flex;
+}
+#u16375 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16375_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u16376_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:268px;
+  height:64px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u16376 {
+  border-width:0px;
+  position:absolute;
+  left:1074px;
+  top:401px;
+  width:268px;
+  height:64px;
+  display:flex;
+}
+#u16376 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16376_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u16377_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:865px;
+  height:136px;
+  background:inherit;
+  background-color:rgba(255, 255, 0, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  color:#FFFF00;
+}
+#u16377 {
+  border-width:0px;
+  position:absolute;
+  left:344px;
+  top:253px;
+  width:865px;
+  height:136px;
+  display:flex;
+  opacity:0.3;
+  color:#FFFF00;
+}
+#u16377 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u16377_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
